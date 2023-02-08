@@ -206,7 +206,6 @@ font-weight: 300;
 }
 .numbers-blocks {
   width: 780px;
-  height: 588px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -246,8 +245,8 @@ font-weight: 300;
 }
 .readNews_txtPart{
     margin: 96px 0;
-    position: relative;
     padding-bottom: 40px;
+    position: relative;
 }
 .News_title{
     color: white;
