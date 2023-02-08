@@ -28,8 +28,7 @@ body {
   justify-content: space-between;
 }
 
-.relative__lable {
-}
+
 .relative__content {
   display: flex;
 }
@@ -98,8 +97,7 @@ body {
   width: 500%;
 }
 
-.content__block-text {
-}
+
 
 .content__block-text h2 {
   color: #ffffff;
@@ -122,8 +120,7 @@ body {
   margin-right: 20px;
 }
 
-.content__block-avatars {
-}
+
 
 .we-help {
   display: flex;
