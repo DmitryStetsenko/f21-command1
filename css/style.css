@@ -656,3 +656,51 @@ body {
   margin-bottom: 20px;
   cursor: pointer;
 }
+
+.seeWhat_blocksPart{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-top: -20px;
+}
+
+.seeWhatBlock{
+  background-color: #19191d;
+  width: 31%;
+  height: 500px;
+  border-radius: 30px;
+  padding: 65px 35px 60px 40px;
+  color: #ffffff;
+  margin-bottom: 80px;
+}
+
+.companyMan{
+  display: flex;
+  background-color: rgba(255, 255, 0, 0);
+  width: 70%;
+}
+
+.companyText{
+  margin-left: 15px;
+}
+.companyText h4{
+  font-weight: lighter;
+  margin-top: 10px;
+  margin-bottom: 9px;
+}
+.companyText p{
+  color: #6b6b6c;
+}
+
+.manTitle{
+  margin-top: 25px;
+  font-weight: normal;
+  width: 100%;
+  font-size: 37px;
+}
+
+.manText{
+  color: #6b6b6c;
+  margin-top: 35px;
+  margin-bottom: 35px;
+}
