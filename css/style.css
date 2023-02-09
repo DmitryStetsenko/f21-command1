@@ -632,3 +632,27 @@ body {
   background: rgba(61, 150, 244, 1);
   cursor: pointer;
 }
+
+.seeWhat_txtPart{
+  margin: 96px 0;
+  padding-bottom: 40px;
+  position: relative;
+}
+
+.seeWhatMiniTitle{
+  width: 140px;
+  margin-bottom: 35px;
+}
+ 
+.seeWhat_title{
+  color: white;
+  font-size: 52px;
+  font-weight: 500;
+  width: 570px;
+  margin-bottom: 12px;
+}
+
+.getInTouchBtn{
+  margin-bottom: 20px;
+  cursor: pointer;
+}
